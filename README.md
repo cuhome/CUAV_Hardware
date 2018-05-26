@@ -1,4 +1,3 @@
-# CUAV_Hardware
-Designed and developed by CUAV, do not use it for commercial purposes
-
-Design and open with Altium Designer 16
+Most of the hardware is designed by CUAV
+There are also some modifications and optimizations from open source hardware
+The published documents are for reference design only and are not recommended for direct mass production
