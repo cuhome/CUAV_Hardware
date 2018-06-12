@@ -14,3 +14,5 @@ This is a docking station and its main functions are:
 1: Built-in 3-way power redundant switching circuit
 2: Built-in a PX4_IO_V2 processor
 3: Extend the V5_Core I/O through the wire-to-board connector.
+
+Design files or libraries may reference some references from PX4\PIXHAWK\3DR\Proficnc, thanks for their contributions to open source hardware. If there is any infringement, please contact us for deletion and modification.

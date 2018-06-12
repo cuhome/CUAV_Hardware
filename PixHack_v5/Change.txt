@@ -1,3 +1,8 @@
+
+*£©2018-6-12
+Design file specification modification and troubleshooting to avoid copyright issues
+
+
 V5_Core_V1.75£¨Relative Developer Edition Difference£©
 
 *£©Modify the I2C Mount Channel of IST8310 to I2C3.
@@ -16,3 +21,8 @@ V5_BASE_V192£¨Relative Developer Edition Difference£©
 ADC1_SPARE_2=ADC6. ADC1_SPARE_1=ADC 3V3.
 
 *£©d all the way to the compass, on the I2C2 channel, for backup, DNP.
+
+
+HACK_V5_IMU_V1.95 £¨Relative Developer Edition Difference£©
+
+*£©
